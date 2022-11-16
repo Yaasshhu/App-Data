@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "Category":"Apple Product"
+    },
+    {
+        "id":2,
+        "Category":"Power & Cables"
+    },
+    {
+        "id":3,
+        "Category":"Cases & Protection"
+    },
+    {
+        "id":4,
+        "Category":"Apple Watches Strap"
+    },
+    {
+        "id":5,
+        "Category":"What's New"
+    }
+]

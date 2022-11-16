@@ -1,0 +1,252 @@
+[
+    {
+        "product_id":1,
+        "product_name":"Apple Watch Series 8",
+        "product_type_id":1,
+        "Cost":"45900.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":2,
+        "product_name":"Apple Watch SE",
+        "product_type_id":1,
+        "Cost":"29900.00",
+        "Color":"Blue",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":3,
+        "product_name":"",
+        "product_type_id":1,
+        "Cost":"Apple Watch Ultra",
+        "Color":"Orange",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":4,
+        "product_name":"iPhone 14 Pro",
+        "product_type_id":2,
+        "Cost":"129900.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":5,
+        "product_name":"iPhone 14",
+        "product_type_id":2,
+        "Cost":"79900.00",
+        "Color":"White",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":6,
+        "product_name":"iPhone SE",
+        "product_type_id":2,
+        "Cost":"49900.00",
+        "Color":"Gray",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":7,
+        "product_name":"Air Pods 2ndG",
+        "product_type_id":3,
+        "Cost":"14900.00",
+        "Color":"White",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":8,
+        "product_name":"Air Pods 3rdG",
+        "product_type_id":3,
+        "Cost":"14900.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":9,
+        "product_name":"AirPods Max",
+        "product_type_id":4,
+        "Cost":"59900.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":10,
+        "product_name":"MacBook Pro 13",
+        "product_type_id":5,
+        "Cost":"129900.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":11,
+        "product_name":"MacBook Air",
+        "product_type_id":5,
+        "Cost":"119900.0",
+        "Color":"Gray",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":12,
+        "product_name":"35W Dual USB-C Port Power Adapter",
+        "product_type_id":6,
+        "Cost":"5800.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":13,
+        "product_name":"MagSafe Battery Pack",
+        "product_type_id":7,
+        "Cost":"12100.00",
+        "Color":"Mix",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":14,
+        "product_name":"USB-C Charge Cable",
+        "product_type_id":8,
+        "Cost":"1900.00",
+        "Color":"White",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":15,
+        "product_name":"MagSafe Charger",
+        "product_type_id":9,
+        "Cost":"4500.00",
+        "Color":"White",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":16,
+        "product_name":"iPhone Lightning Dock",
+        "product_type_id":10,
+        "Cost":"5500.00",
+        "Color":"Gray",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":17,
+        "product_name":"iPhone 14 Pro Max Clear Case with MagSafe",
+        "product_type_id":11,
+        "Cost":"4900.00",
+        "Color":"Stylish Color",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":18,
+        "product_name":"Smart Folio for iPad Pro 11",
+        "product_type_id":12,
+        "Cost":"12500.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":19,
+        "product_name":"Wireless Charging Case for AirPods",
+        "product_type_id":13,
+        "Cost":"7500.00",
+        "Color":"Brown",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":20,
+        "product_name":"iPhone Leather Wallet with MagSafe",
+        "product_type_id":14,
+        "Cost":"5900.00",
+        "Color":"Gray",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":21,
+        "product_name":"Magic Keyboard Folio for iPad",
+        "product_type_id":15,
+        "Cost":"24900.00",
+        "Color":"White",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":21,
+        "product_name":"Black Unity Braided Solo Loop",
+        "product_type_id":16,
+        "Cost":"9500.00",
+        "Color":"Brown",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":22,
+        "product_name":"Pride Edition Braided Solo Loop",
+        "product_type_id":17,
+        "Cost":"9500.00",
+        "Color":"Brown",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":23,
+        "product_name":"Black Unity Sport Band",
+        "product_type_id":18,
+        "Cost":"4500.00",
+        "Color":"Brown",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":24,
+        "product_name":"Pride Edition Nike Sport Loop",
+        "product_type_id":19,
+        "Cost":"4500.00",
+        "Color":"Red",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":25,
+        "product_name":"Umber Leather Link",
+        "product_type_id":20,
+        "Cost":"9500.00",
+        "Color":"Brown",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":26,
+        "product_name":"USB-C to Apple Pencil Adapter",
+        "product_type_id":21,
+        "Cost":"900.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":28,
+        "product_name":"USB-C Charge Cable ",
+        "product_type_id":22,
+        "Cost":"1900.00",
+        "Color":"Black",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":27,
+        "product_name":"iPhone 14 Pro Clear Case with MagSafe",
+        "product_type_id":23,
+        "Cost":"4900.00",
+        "Color":"Gray",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":28,
+        "product_name":"Smart Folio for iPad - Watermelon",
+        "product_type_id":24,
+        "Cost":"8500.00",
+        "Color":"Green",
+        "Brand":"Apple"
+    },
+    {
+        "product_id":28,
+        "product_name":"AirPods Pro",
+        "product_type_id":25,
+        "Cost":"26900.00",
+        "Color":"White",
+        "Brand":"Apple"
+    }
+   
+   
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "id":1,
+        "product_type":"Watches",
+        "Category_id":1,
+        "_type":"Smart & Digital" 
+    },
+    {
+        "id":2,
+        "product_type":"IPhone",
+        "Category_id":1,
+        "_type":"Smart"      
+    },
+    {
+        "id":3,
+        "product_type":"Air Podes",
+        "Category_id":1,
+        "_type":"Digital"      
+    },
+    {
+        "id":4,
+        "product_type":"Headphones",
+        "Category_id":1,
+        "_type":"Digital"      
+    },
+    {
+        "id":5,
+        "product_type":"Mac",
+        "Category_id":1,
+        "_type":"Smart & Digital"      
+    },
+    {
+        "id":6,
+        "product_type":"Adopters",
+        "Category_id":2 ,   
+        "_type":"Electronic" 
+    },
+    {
+        "id":7,
+        "product_type":"Batteries",
+        "Category_id":2,
+        "_type":"Electronic"     
+    },
+    {
+        "id":8,
+        "product_type":"Cables",
+        "Category_id":2,
+        "_type":"Electronic"      
+    },
+    {
+        "id":9,
+        "product_type":"Chargers",
+        "Category_id":2,
+        "_type":"Electronic"      
+    },
+    {
+        "id":10,
+        "product_type":"Docks",
+        "Category_id":2,
+        "_type":"Electronic"      
+    },
+    {
+        "id":11,
+        "product_type":"Cases & Covers",
+        "Category_id":3,
+        "_type":"Protection"      
+    },
+    {
+        "id":12,
+        "product_type":"Port folices",
+        "Category_id":3,
+        "_type":"Protection"      
+    },
+    {
+        "id":13,
+        "product_type":"Headphone Cases",
+        "Category_id":3,
+        "Watch_type":"Protection"      
+    },
+    {
+        "id":14,
+        "product_type":"KeyBoard Folices",
+        "Category_id":3,
+        "Watch_type":"Protection"      
+    },
+    {
+        "id":15,
+        "product_type":"Wallets",
+        "Category_id":3,
+        "Watch_type":"Protection"      
+    },
+    {
+        "id":16,
+        "product_type":"Special Edition",
+        "Category_id":4,
+        "_type":"Strap"      
+    },
+    {
+        "id":17,
+        "product_type":"Solo Loop",
+        "Category_id":4,
+        "_type":"Strap"      
+    },
+    {
+        "id":18,
+        "product_type":"Sport Brand",
+        "Category_id":4,
+        "_type":"Strap"      
+    },
+    {
+        "id":19,
+        "product_type":"Nick Sport Band",
+        "Category_id":4,
+        "_type":"Strap"      
+    },
+    {
+        "id":20,
+        "product_type":"Leather",
+        "Category_id":4,
+        "_type":"Strap"      
+    },
+    {
+        "id":21,
+        "product_type":"Adopters",
+        "Category_id":5,
+        "_type":"New"      
+    },
+    {
+        "id":22,
+        "product_type":"Cables",
+        "Category_id":5,
+        "_type":"New"      
+    },
+    {
+        "id":23,
+        "product_type":"Cases & Covers",
+        "Category_id":5,
+        "_type":"New"      
+    },
+    {
+        "id":24,
+        "product_type":"Port folices",
+        "Category_id":5,
+        "_type":"New"      
+    },
+    {
+        "id":25,
+        "product_type":"Headphones",
+        "Category_id":5,
+        "_type":"New"      
+    }
+]
